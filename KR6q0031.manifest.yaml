@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6q0031/v1
+canonical_location: https://kanripo.org/bkk/KR6q0031/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 正源略集目錄
+  identifiers:
+    alt_id:
+    - X85n1586
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X85/X85n1586.xml
+    old_id: X85n1586
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0031_000.yaml, hash: 'sha256:c344f212508076d8ce6beddd99bffdad8c8f6f6c1445ff382dabf0ae516ca5bf'}
+  - {seq: 1, filename: KR6q0031_001.yaml, hash: 'sha256:d17ae8bb3ce6737b4609909698a112d3d81cbca1616a59fda5625fabbc596187'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6q0031_001.markers.yaml, hash: 'sha256:91934e8e2f4c9525ad58b8ef9af2e1229b1c5ebb1faf765034978e2a79f75951'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6q0031_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 5605
+  label: 正源略集目錄
+  type: juan
+  level: 1
+hash: sha256:fb08b90117daac3d11c2f144c1da66a444266882e26dfe381f82bc637a46168c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6q0031/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6q0031_X_000-0001a, ed: X, 'n': 0001a, source_xml_id: X85.1586.0001a}
+  - {type: line-break, offset: 0, content: '', id: KR6q0031_X_000-0001a01, ed: X, 'n': 0001a01}
+  - {type: line-break, offset: 0, content: '', id: KR6q0031_X_000-0001a02, ed: X, 'n': 0001a02}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6q0031_X_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6q0031_X_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6q0031_X_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '1', id: KR6q0031_X_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '5', id: KR6q0031_X_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '8', id: KR6q0031_X_000-bkkpn6}
+  - {type: punctuation, offset: 0, content: '6', id: KR6q0031_X_000-bkkpn7}
+  - {type: line-break, offset: 0, content: '', id: KR6q0031_X_000-0001a03, ed: X, 'n': 0001a03}
+  - {type: line-break, offset: 0, content: '', id: KR6q0031_X_000-0289a01, ed: R145, 'n': 0289a01}
+  body: []
+  back: []
+hash: sha256:c6fd7907bc19f22249f3283afd3bddd28e81e9970e9fc4011c7b4302c9180bd0

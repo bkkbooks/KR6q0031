@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0031/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 正源略集目錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X85/X85n1586.xml
+    old_id: X85n1586
+hash: sha256:c344f212508076d8ce6beddd99bffdad8c8f6f6c1445ff382dabf0ae516ca5bf
